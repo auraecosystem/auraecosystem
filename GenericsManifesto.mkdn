@@ -1,5 +1,4 @@
-(Source: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160229/011666.html, authored by Douglas Gregor)
-
+>(Source: https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20160229/011666.html, authored by Douglas Gregor)
 ## Introduction
 
 The "Complete Generics" goal for Swift 3 has been fairly ill-defined thus far, with just this short blurb in the list of goals:
