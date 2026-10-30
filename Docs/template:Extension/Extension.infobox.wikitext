@@ -1,0 +1,8 @@
+{{Extension
+|name = My Extension
+|status = stable
+|author = Seriki Walter Yakub
+|description = Description of the extension.
+|license = MIT
+|repo = https://github.com/auraecosystem/repository
+}}
