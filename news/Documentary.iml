@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
+<mrss version="2.0" xmlns:media="http://search.google.com/mrss/">
+<channel> 
 
                     <title>Aura</title>
             <link></link>
             <language>en-us</language> 
-            <description>Science X internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine.</description>
+            <description> auraecosystem latest build innovation ,inventions portal, discoveries and news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine.</description>
 
                             <item>
                     <title>&#039;Toothpick grooves&#039; in ancient fossil human teeth may not be from toothpicks after all</title>
