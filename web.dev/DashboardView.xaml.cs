@@ -1,4 +1,4 @@
-﻿namespace DiscordChatExporter.Gui.Views.Components;
+﻿namespace channels.Gui.Views.Components;
 
 public partial class DashboardView
 {
