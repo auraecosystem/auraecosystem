@@ -1,0 +1,3 @@
+"scripts": {
+  "start": "cross-env CORS_ORIGINS=http://localhost.im:5173,https://lmlm.dev node server.js"
+}
